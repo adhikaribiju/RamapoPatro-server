@@ -1,0 +1,20 @@
+{
+  "name": "event-portal-server",
+  "version": "1.0.0",
+  "eventDescription": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudinary": "^2.4.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongodb": "^6.2.0",
+    "nodemon": "^3.0.1"
+  }
+}
